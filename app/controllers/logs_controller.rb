@@ -1,4 +1,4 @@
-class LogsController < ApplicationController
+class LogsController < ApplicationController  
   attr_reader :web_logger
 
   def index
